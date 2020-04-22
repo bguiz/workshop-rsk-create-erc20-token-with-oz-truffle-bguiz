@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/bguiz/workshop-rsk-create-erc20-token-with-oz-truffle-bguiz#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "3.0.0",
+    "@openzeppelin/contracts": "2.5.0",
     "@truffle/hdwallet-provider": "1.0.34"
   }
 }
